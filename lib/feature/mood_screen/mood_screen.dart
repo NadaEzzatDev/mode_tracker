@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mode_tracker/feature/mood_screen/widgets/history/history_section.dart';
-import 'package:mode_tracker/feature/mood_screen/widgets/mood_selector.dart';
+import 'package:mood_tracker/feature/mood_screen/widgets/history/history_section.dart';
+import 'package:mood_tracker/feature/mood_screen/widgets/mood_selector.dart';
 
 import '../../core/theme/app_theme.dart';
 import 'cubit/mood_cubit.dart';
